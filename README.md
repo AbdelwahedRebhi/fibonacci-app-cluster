@@ -4,7 +4,7 @@
 
 ## Introduction
 
-This project is a designed to dockerize a react application and to deploy it using kubernetes. The web application allows users to enter a number and calculates the Fibonacci number at that index.
+This project is designed to dockerize a react application and to deploy it using kubernetes. The web application allows users to enter a number and calculates the Fibonacci number at that index.
 
 ## Architecture
 
